@@ -602,7 +602,7 @@
     "typemoq": "^1.6.0",
     "typescript": "^3.7.5",
     "vscode-test": "^1.4.0",
-    "webpack": "^4.44.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "body-parser": "^1.16.1",
